@@ -1,0 +1,75 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="50%" stop-color="#0d1d2f"/>
+      <stop offset="100%" stop-color="#0b0f1a"/>
+    </linearGradient>
+    <linearGradient id="blueLine" x1="0" x2="1">
+      <stop offset="0%" stop-color="#30d5ff"/>
+      <stop offset="100%" stop-color="#7d8cff"/>
+    </linearGradient>
+    <linearGradient id="purpleLine" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7c5cff"/>
+      <stop offset="100%" stop-color="#2ae3bf"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#1fe3ff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#1fe3ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <g opacity="0.13">
+    <path d="M0 50 H1200" stroke="#dfeeff"/>
+    <path d="M0 100 H1200" stroke="#dfeeff"/>
+    <path d="M0 150 H1200" stroke="#dfeeff"/>
+    <path d="M0 200 H1200" stroke="#dfeeff"/>
+    <path d="M0 250 H1200" stroke="#dfeeff"/>
+  </g>
+
+  <circle cx="900" cy="160" r="130" fill="url(#glow)"/>
+
+  <g stroke="url(#blueLine)" stroke-width="2.5" fill="none" opacity="0.95">
+    <path d="M120 210 L250 150 L360 170 L500 120 L660 150"/>
+    <path d="M250 150 L250 80 L360 95 L360 170"/>
+    <path d="M360 95 L500 60 L660 150"/>
+    <path d="M500 120 L500 60"/>
+    <path d="M660 150 L860 110 L980 150"/>
+  </g>
+
+  <g stroke="url(#purpleLine)" stroke-width="2.5" fill="none" opacity="0.9">
+    <path d="M150 240 L250 150 L360 170 L500 220 L660 210 L780 150 L980 170"/>
+    <path d="M500 220 L500 120"/>
+  </g>
+
+  <g fill="#eaf6ff" filter="url(#softGlow)">
+    <circle cx="120" cy="210" r="6"/>
+    <circle cx="250" cy="150" r="6"/>
+    <circle cx="360" cy="170" r="6"/>
+    <circle cx="500" cy="120" r="6"/>
+    <circle cx="660" cy="150" r="6"/>
+    <circle cx="250" cy="80" r="6"/>
+    <circle cx="360" cy="95" r="6"/>
+    <circle cx="500" cy="60" r="6"/>
+    <circle cx="860" cy="110" r="6"/>
+    <circle cx="980" cy="150" r="6"/>
+    <circle cx="780" cy="150" r="6"/>
+    <circle cx="150" cy="240" r="6"/>
+    <circle cx="660" cy="210" r="6"/>
+  </g>
+
+  <g fill="#dfeeff">
+    <text x="60" y="90" font-size="26" font-family="Segoe UI, Arial, sans-serif" font-weight="700" fill="#eaf8ff" letter-spacing="2">AI ENGINEER</text>
+    <text x="60" y="130" font-size="18" font-family="Segoe UI, Arial, sans-serif" fill="#93d5ff">CYBERSECURITY</text>
+    <text x="60" y="170" font-size="18" font-family="Segoe UI, Arial, sans-serif" fill="#7de7cf">SECURE AI SYSTEMS</text>
+    <text x="60" y="245" font-size="15" font-family="Segoe UI, Arial, sans-serif" fill="#cfdcff">AI • Agentic Systems • Full-Stack Engineering • Security-first Design</text>
+  </g>
+</svg>
