@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/twintestr/twintestr/main/banner.svg" width="1000" alt="AI Engineer Banner" />
+  <img src="https://raw.githubusercontent.com/twintestr/twintestr/main/banner.svg" width="1000" alt="AI Engineer profile banner" />
 </p>
 
 <p align="center">
@@ -20,69 +20,60 @@
 <h1 align="center">AI Engineer × Cybersecurity Engineer</h1>
 
 <p align="center">
-  <strong>Building secure AI systems, agentic tooling, and practical software products.</strong>
+  <strong>Building secure AI systems, agentic workflows, and resilient full-stack products.</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=twintestr&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=twintestr&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
 
 ## About
 
-I build systems at the intersection of AI, software engineering, and security.
+I build software at the intersection of AI, product engineering, and security.
 
 My work focuses on:
-- AI-enabled product design
-- Agentic workflows and developer tooling
-- Real-time full-stack systems
+- AI-enabled applications and workflows
+- Agentic systems and developer tooling
+- Real-time full-stack products
 - Secure-by-design architecture
-- Cybersecurity fundamentals and applied security thinking
-- Practical engineering with a bias toward clarity, reliability, and trust
+- Cybersecurity fundamentals and systems thinking
+- Building practical tools that are accurate, useful, and trustworthy
 
-I care about building tools that are useful, verifiable, and secure — not just impressive on paper.
-
----
-
-## Core Focus
-
-### AI & Agentic Systems
-- Agentic AI workflows
-- AI-assisted tooling
-- Repository-aware automation
-- LLM-oriented workflows
-- Automation and decision support systems
-
-### Cybersecurity
-- Security fundamentals
-- Secure software engineering
-- Threat-aware design
-- Defensive thinking
-- Trusted and safe AI systems
-
-### Software Engineering
-- TypeScript / JavaScript
-- Python
-- Node.js / Express
-- Next.js / React
-- Supabase
-- Socket.IO
-- Rust tooling
-- Full-stack product development
+I’m not interested in "AI for the sake of AI." I care about building systems that solve real problems and hold up under real-world constraints.
 
 ---
 
-## Featured Work
+## What I’m Building
+
+- Secure AI workflows and tooling
+- Agent-first software systems
+- Full-stack products with real-time interaction
+- AI-assisted engineering infrastructure
+- Cybersecurity learning applied to system design
+
+---
+
+## Featured Projects
 
 ### TConnect
-Real-time social and multiplayer room experience built with Next.js, React, Express, Socket.IO, and Supabase.
+A real-time multiplayer social / room platform built with Next.js, React, Express, Socket.IO, and Supabase.
 
-- Real-time room creation and joining
-- Multiplayer flow orchestration
-- Authentication and session handling
-- Event-driven backend architecture
-- Full-stack product iteration
+Key points:
+- Room creation and joining flows
+- Multiplayer interaction design
+- Real-time event-driven backend
+- User auth and session flow
+- Product iteration around social engagement mechanics
+
+Tech stack:
+- Next.js
+- React
+- TypeScript
+- Express
+- Socket.IO
+- Supabase
 
 Repository:
 - https://github.com/twintestr/tconnect
@@ -95,11 +86,18 @@ Status:
 ### repository-harness
 A repository-level harness for AI coding agents and human + AI collaboration.
 
-- Agent-aware repository structure
-- Context-first engineering workflows
+Key points:
+- Agent-aware software workflow design
+- Better repository context and operating model
 - Tooling for AI-assisted development
-- Rust-based CLI infrastructure
-- Better repository readiness and operational clarity
+- Rust CLI infrastructure
+- Documentation-first engineering for agent workflows
+
+Tech stack:
+- Rust
+- CLI tooling
+- GitHub workflows
+- Documentation-driven architecture
 
 Repository:
 - https://github.com/twintestr/repository-harness
@@ -110,12 +108,13 @@ Status:
 ---
 
 ### 90DaysOfCyberSecurity
-A structured cybersecurity learning roadmap focused on building real security fundamentals.
+A structured learning repository focused on cybersecurity fundamentals and practical study progression.
 
-- Linux and systems understanding
+Key points:
+- Linux / systems foundations
 - Networking and security concepts
 - Python and security tooling
-- Learning path for offensive/defensive foundations
+- Structured learning roadmapping
 
 Repository:
 - https://github.com/twintestr/90DaysOfCyberSecurity
@@ -126,19 +125,30 @@ Status:
 ---
 
 ### Blockchain-For-Intellectual-Property-Rights-Protection
-A blockchain-oriented project focused on digital ownership, trust, and traceability.
+A blockchain-focused project centered on ownership tracking, trust, and digital rights protection.
+
+Key points:
+- Secure ownership records
+- Trust and traceability
+- Digital rights protection concepts
+- Applied blockchain thinking for secure systems
 
 Repository:
 - https://github.com/twintestr/Blockchain-For-Intellectual-Property-Rights-Protection
 
-Focus:
-- Intellectual property protection
-- Secure ownership tracking
-- Trust-aware digital systems
-- Applied blockchain thinking
-
 Status:
 - Concept-to-application exploration
+
+---
+
+### AI_Smart_Bus_Stop_Assistant
+An AI-driven smart public transport assistant concept exploring intelligent assistance in transit contexts.
+
+Repository:
+- https://github.com/twintestr/AI_Smart_Bus_Stop_Assistant
+
+Status:
+- Project / prototype stage
 
 ---
 
@@ -147,16 +157,54 @@ Status:
 I prefer systems that are:
 - practical before flashy
 - secure by default
-- observable and understandable
-- product-oriented rather than theoretical
-- designed for iteration
+- easy to reason about
+- built to evolve with feedback
+- grounded in product value
 
-My workflow generally follows:
-1. Understand the problem
+Typical workflow:
+1. Define the problem clearly
 2. Design the architecture
 3. Build a working proof of concept
-4. Validate behavior
-5. Refine with security and reliability in mind
+4. Validate behavior and constraints
+5. Harden with security and reliability in mind
+
+---
+
+## Core Skill Map
+
+### AI / Agentic Systems
+- AI-assisted workflows
+- Agent infrastructure
+- Repository-aware AI tooling
+- Tooling for coding agents
+- Workflow automation
+- LLM-oriented product thinking
+
+### Cybersecurity
+- Security fundamentals
+- Secure software engineering
+- Threat-aware architecture
+- Defensive thinking
+- Trusted AI systems
+
+### Software Engineering
+- TypeScript
+- JavaScript
+- Python
+- Rust
+- Node.js
+- Express
+- Next.js
+- React
+- Supabase
+- Socket.IO
+
+### Dev & Infra
+- GitHub workflows
+- Full-stack product development
+- Real-time systems
+- API design and integration
+- Product iteration
 
 ---
 
@@ -164,46 +212,10 @@ My workflow generally follows:
 
 - Secure AI systems
 - Agentic AI workflows
-- AI-driven tooling for engineering teams
+- AI-driven developer tooling
 - Full-stack product engineering
 - Applied cybersecurity
-- Responsible, trustworthy technology
-
----
-
-## Tech Stack
-
-### Languages
-- TypeScript
-- JavaScript
-- Python
-- Rust
-- SQL
-
-### Frontend
-- Next.js
-- React
-- Real-time interfaces
-- UI implementation
-
-### Backend
-- Node.js
-- Express
-- Socket.IO
-- REST / event-driven development
-- Supabase
-
-### AI / Agentic
-- AI-assisted workflows
-- Agent infrastructure
-- Tooling for coding agents
-- Workflow automation
-
-### Security
-- Cybersecurity fundamentals
-- Secure systems mindset
-- Threat-aware architecture
-- Secure software practices
+- Trustworthy and resilient systems design
 
 ---
 
